@@ -3,3 +3,19 @@ testing text
 testing text from Alvee
 
 testing from VM 10.10.19 09:00:00
+
+
+
+Update and expand the commit guidelines
+Elaborate on the style guidelines for commit messages. These new
+style guidelines reflect the conversation found in #124.
+
+The guidelines are changed to:
+- Provide guidance on how to write a good first line.
+- Elaborate on formatting requirements.
+- Relax the advice on using issues for nontrivial commits.
+- Move issue references from the first line to the message footer.
+- Encourage contributors to put more information into the commit
+  message.
+
+Closes: #124
