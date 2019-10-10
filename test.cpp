@@ -2,6 +2,6 @@
 using namespace std;
 int main () {
 	cout << "Hello From VM!" << endl;
-	//test change from VM with lines
+	//testing auto signing with GPG keys
 	return 0;
 }
