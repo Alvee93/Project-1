@@ -6,6 +6,7 @@ int main (void) {
 	int a, b, c; //added int a, b, c on master
 	cout << "Hello World" << endl; //added endl from VM
 	cout << "New line added from VM" << endl; //comment from VM
+	//this is the soft-reset test
 	return 0;
 }
 ||||||| merged common ancestors
