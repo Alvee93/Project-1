@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #include <iostream>
 using namespace std;
-int main () {
+int main (void) {
 	//program desc added from PC
 	int a, b, c; //added int a, b, c on master
 	cout << "Hello World" << endl; //added endl from VM
