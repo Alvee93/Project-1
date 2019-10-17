@@ -9,6 +9,7 @@ int main () {
 
 	//this is updated from VM: 17-10-19: 12:33:00
 	//final merge from GH
+	//to show demo of vscode git editor
 	//final merge from VM
 	return 0;
 }
