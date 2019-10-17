@@ -12,9 +12,5 @@ int main () {
 	//sadasd No, I'm not sad today
 	//Oh yeah
 	
-	
-	
-	
-	//asdasdad
 	return 0;
 }
