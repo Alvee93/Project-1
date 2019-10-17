@@ -13,6 +13,5 @@ int main () {
 	//final merge from GH
 	//to show demo of vscode git editor
 	//final merge from VM
-	//final merge from VM
 	return 0;
 }
