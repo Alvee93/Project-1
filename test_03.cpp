@@ -14,6 +14,7 @@ int main (void) {
 	//this is the line to genjam, added @GH, added @VM
 	//TR::bternary
 	//TR::bternaries etc.
+	//TR::bselect
 	int a, b;
 >>>>>>> This commit is introduced for the genjam msg from VM
 	return 0;
