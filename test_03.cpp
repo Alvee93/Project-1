@@ -6,5 +6,6 @@ int main (void) {
 	//TR::bselect
 	int a, b, x;
 	int c = a + b;
+	c=0;
 	return 0;
 }
