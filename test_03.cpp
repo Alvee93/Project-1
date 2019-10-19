@@ -5,5 +5,6 @@ int main (void) {
 	//this is the line to genjam, added @GH, added @VM
 	//TR::bselect
 	int a, b, x;
+	int c = a + b;
 	return 0;
 }
