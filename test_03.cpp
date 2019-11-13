@@ -5,5 +5,6 @@ int main (void) {
 	//this is the line to genjam, added @GH
 	//TR::bternaries etc.
 	int a, b, x;
+	//x is kept same in master, although changed in VM
 	return 0;
 }
