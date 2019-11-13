@@ -7,5 +7,7 @@ int main (void) {
 	int a, b, x;
 	
 	//(l) x is kept same in master, although changed in VM --> Purpose: merge conflict
+	
+	//Testing git default editor
 	return 0;
 }
