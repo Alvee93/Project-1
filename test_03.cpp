@@ -8,6 +8,10 @@ int main (void) {
 	
 	//(l) x is kept same in master, although changed in VM --> Purpose: merge conflict
 	
+	//test new line after merge conflict
+	//another new line
+
 	//Testing git default editor
+
 	return 0;
 }
