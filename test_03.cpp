@@ -6,6 +6,6 @@ int main (void) {
 	//TR::bternaries etc.
 	int a, b, x;
 	
-	//(l) x is kept same in master, although changed in VM
+	//(l) x is kept same in master, although changed in VM --> Purpose: merge conflict
 	return 0;
 }
