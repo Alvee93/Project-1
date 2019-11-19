@@ -13,5 +13,7 @@ int main (void) {
 
 	//Testing git default editor
 
+	//new branch test (with soft reset)
+	
 	return 0;
 }
