@@ -15,7 +15,7 @@ int main (void) {
 
 	//new branch test (with soft reset)
 
-	//test signature changed github name
+	//test signature changed git name
 	
 	return 0;
 }
