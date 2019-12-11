@@ -14,6 +14,8 @@ int main () {
 	//Oh yeah, testing same line merge //git mv change
 
 	//new line before git mv
+
+	//another new line before git mv
 	
 	return 0;
 }
