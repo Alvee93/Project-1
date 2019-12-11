@@ -17,5 +17,7 @@ int main (void) {
 
 	//test signature changed git name
 	
+	//this line is for checking persistance of soft reset //& git mv
+	
 	return 0;
 }
